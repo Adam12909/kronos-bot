@@ -45,7 +45,7 @@ global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
 //BOT COSTOMIZEDTATION
 global.owner = ['96181544124']
 global.ownertag = '96181544124' //ur tag number
-global.botnumber = '96181544124' //Add your Bot Number For Log
+global.botnumber = '94764679736' //Add your Bot Number For Log
 global.botname = 'kronos bot' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
@@ -88,12 +88,12 @@ global.rkyt = []
 global.wlcm = []
 global.gcrevoke = []
 global.autorep = []
-global.ntilink = []
+global.ntilink = [on]
 
 //OTHERS
 global.sessionName = 'session'
 global.antitags = true
-global.prefa = ['','!','.']
+global.prefa = ['','!',]
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
