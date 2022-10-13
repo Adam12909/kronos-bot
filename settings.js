@@ -87,7 +87,7 @@ global.ntvirtex = []
 global.rkyt = []
 global.wlcm = [on]
 global.gcrevoke = [on]
-global.autorep = []
+global.autorep = [off]
 global.ntilink = [on]
 
 //OTHERS
